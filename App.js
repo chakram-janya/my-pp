@@ -92,7 +92,7 @@ function Education() {
             <span className="edu-year">2020</span>
           </div>
           <p className="edu-institution">United High School, Hassan</p>
-          <p className="edu-performance">Percentage: 96%</p>
+          <p className="edu-performance">Percentage: 86%</p>
         </div>
       </div>
     </section>
@@ -243,7 +243,7 @@ function PersonalDetails() {
         </div>
         <div className="detail-item">
           <span className="detail-label">Gender:</span>
-          <span className="detail-value">Female</span>
+          <span className="detail-value">male</span>
         </div>
         <div className="detail-item">
           <span className="detail-label">Father's Name:</span>
